@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Swipe_n_Tab</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="no_name">
+        <item>one</item>
+        <item>two</item>
+        <item>three</item>
+        <item>four</item>
+        <item>five</item>
+        <item>six</item>
+        <item>seven</item>
+        <item> eight</item>
+        <item>nine</item>
+        <item>ten</item>
+    </string-array>
+
+    <string-array name="desc">
+        <item>1st line</item>
+        <item>2nd line</item>
+        <item>3rd line</item>
+        <item>4th line</item>
+        <item>5th line</item>
+        <item>6th line</item>
+        <item>7th line</item>
+        <item>8th line</item>
+        <item>9th line</item>
+        <item>10th line</item>
+    </string-array>
+</resources>
